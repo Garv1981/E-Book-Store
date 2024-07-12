@@ -75,7 +75,7 @@ p {
   transition: 0.5s;
 }
 .header {
-  background: radial-gradient(#fff, #ffd6d6);
+  background: linear-gradient(135deg , #6a8ed5 , #c68bd5);
 }
 .header .row {
   margin-top: 0px;
